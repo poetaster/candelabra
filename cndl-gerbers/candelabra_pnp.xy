@@ -1,0 +1,39 @@
+# Pick And Place List
+# eMail=
+#
+# Project=candelabra
+# Date=18:46:16
+# CreatedBy=Fritzing 1.0.6.2025-10-07.1.0.5rc1-97-g04e5bb02
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB. Rotation in degree (0-360, math. pos.)
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Vactrol2,";;;;;;;;","",585.888,1574.95,90,Bottom,MANUAL
+BAT46,";;;;;;;;","diode-1n4148",552.578,2654.41,180,Bottom,SMT
+BAT46,";;;;;;;;","diode-1n4148",520.944,3511.33,0,Bottom,SMT
+BAT46,";;;;;;;;","diode-1n4148",591.244,4273.15,0,Bottom,SMT
+Shrouded Male,";;;;;;;;","THT",389.856,170.141,-90,Bottom,THT
+100,"100;;;;;0.25W;;;","THT",659.56,791.936,180,Bottom,THT
+100uF1,";0.1mF;;35V;;;;;","100 mil [THT, electrolytic]",650.2,952.752,180,Bottom,THT
+470uf,";0.47mF;;35V;;;;;","100 mil [THT, electrolytic]",273.089,1861.49,180,Bottom,THT
+1000uF2,";1mF;;35V;;;;;","100 mil [THT, electrolytic]",194.156,2241.82,180,Bottom,THT
+1000uF,";1mF;;35V;;;;;","100 mil [THT, electrolytic]",197.089,3090.04,180,Bottom,THT
+1000uF,";1mF;;16V;;;;;","100 mil [THT, electrolytic]",178.233,3828.89,180,Bottom,THT
+1k,"1k;;;;;0.25W;;;","THT",710.561,3663.83,-90,Bottom,THT
+CV,";;;;;;;;","",179.793,1479.58,180,Top,MANUAL
+Z,";;;;;;;;","",283.682,2520.09,90,Top,MANUAL
+Y,";;;;;;;;","",289.049,3391.3,90,Top,MANUAL
+x,";;;;;;;;","",286.738,4155.61,90,Top,MANUAL
+5187,";;;;;;;;","diode-1n4148",721.433,546.752,-90,Top,SMT
+S6,";;;;;;;;","switch-spdt_kit",229.041,1062.25,-90,Top,SMT
+5187,";;;;;;;;","diode-1n4148",419.578,1387.96,90,Top,SMT
+5K,";;;;;0.5W;;;","THT",269.684,671.219,90,Top,THT
+104,";100nF;;16V;;;;;","200 mil [THT, multilayer]",617.533,504.174,90,Top,THT
+LED3,";;;;0.030A;;;;","5 mm [THT]",641.761,2221.08,-90,Top,THT
+2N3904,";;;;;;;;","TO92 [THT]",176.344,2800.42,0,Top,THT
+2N3904,";;;;;;;;","TO92 [THT]",549.867,2820.34,0,Top,THT
+LED2,";;;;0.030A;;;;","5 mm [THT]",619.539,3108.67,180,Top,THT
+2N3904,";;;;;;;;","TO92 [THT]",434.6,3687.72,0,Top,THT
+LED1,";;;;0.030A;;;;","5 mm [THT]",619.539,3879.27,180,Top,THT
+1K,"1k;;;;;0.25W;;;","THT",680.689,4085.79,180,Top,THT
